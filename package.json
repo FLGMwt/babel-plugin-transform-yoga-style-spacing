@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-transform-yoga-style-spacing",
+  "version": "1.0.0",
+  "description": "Transform spacing properties such as `marginVertical` into their separate properties for DOM support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FLGMwt/babel-plugin-transform-yoga-style-spacing"
+  },
+  "keywords": [
+    "js",
+    "babel",
+    "babeljs",
+    "yoga"
+  ],
+  "author": "FLGMwt",
+  "license": "MIT"
+}
